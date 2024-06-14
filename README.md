@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean Hart</h1>
-<h3 align="center">Data Scientist with Development in Mind</h3>
+<h3 align="center">Data Scientist at Large</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seanisthegood" alt="seanisthegood" /></a> </p>
 
