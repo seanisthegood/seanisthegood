@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seanisthegood" alt="seanisthegood" /></a> </p>
 
-- 🔭 I’m currently working on [Log Translator](www.logarithms.org)
+- 🔭 I’m currently working on [Log Translator](logtranslatot)
 
 - 🌱 I’m currently learning **React**
 
